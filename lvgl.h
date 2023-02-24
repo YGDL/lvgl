@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @file lvgl.h
  * Include all LVGL related headers
  */
@@ -42,6 +42,7 @@ extern "C" {
 #include "src/font/lv_font.h"
 #include "src/font/lv_font_loader.h"
 #include "src/font/lv_font_fmt_txt.h"
+#include "src/font/use_font_loader.h"
 
 #include "src/widgets/lv_arc.h"
 #include "src/widgets/lv_btn.h"
